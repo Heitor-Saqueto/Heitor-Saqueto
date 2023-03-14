@@ -3,6 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heitorsaqueto/)
 
 ![Heitor Saqueto](https://github-readme-stats.vercel.app/api?username=Heitor-Saqueto&show_icons=true&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=Heitor-Saqueto&show_icons=true&theme=tokyonight
 
 ## Tecnlogias que uso em meus projetos
 
