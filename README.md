@@ -6,6 +6,7 @@
 
 ## Tecnlogias que uso em meus projetos
 
+
 <div style= "display:inline_block"><br/>
   <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
    <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
